@@ -493,8 +493,6 @@ Research shows that **speech and language changes precede clinical dementia diag
 
 ## 👥 Team
 
-**Team FAIV** — Built at *Watch The Code Hackathon 2026*
-
 | Member | Role | GitHub | 
 |---|---|---|
 | Lakshay Bhardwaj | 🎨 Frontend Engineer | [@onlylaksh](https://github.com/onlylaksh) |
